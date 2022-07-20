@@ -1,0 +1,23 @@
+{
+  "name": "live-weather",
+  "version": "1.0.0",
+  "description": "live weather widget for Experience Builder",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather"
+  ],
+  "author": "Grant Carroll",
+  "license": "ISC",
+  "dependencies": {
+    "@eaglegis/weather-widget": "^1.0.21"
+  },
+  "devDependencies": {
+    "calcite-web": "github:Esri/calcite-web#v1.2.5"
+  }
+}

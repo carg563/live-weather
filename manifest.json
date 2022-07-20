@@ -1,0 +1,19 @@
+{
+  "name": "live-weather",
+  "label": "Live Weather",
+  "type": "widget",
+  "version": "1.8.0",
+  "exbVersion": "1.8.0",
+  "author": "Grant Carroll, Eagle Technologu",
+  "description": "A widget that displays live weather",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 250,
+    "height": 300
+  }
+}
