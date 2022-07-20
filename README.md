@@ -1,5 +1,5 @@
 # live-weather
-A widget which gets the latest weather from weather API and displays this in an ArcGIS Web Scene
+A widget which gets the latest weather from weather API and displays this in an ArcGIS Web Scene in ArcGIS Experience Builder.
 
 The actual widget is a custom widget which has been published to npm.
 
